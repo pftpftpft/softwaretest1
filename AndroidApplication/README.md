@@ -1,2 +1,0 @@
-# AdvancedSoftTesting
- repository for homework
